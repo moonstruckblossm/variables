@@ -1,0 +1,40 @@
+name: <name here>
+date: <date here>
+
+1) What is a variable?
+
+
+
+2) Are variable names case-sensitive? Is a variable named a the same as a variable named A?
+
+
+
+3) What characters are you allowed to use in a variable name?
+
+
+
+3) Can a variable that originally holds a string hold a different type later on?
+
+
+
+4) Can you save the contents of one variable to another? Example:
+    x = 5
+    y = x
+   What is the value of y?
+
+
+
+5) Does using the variable in an operation cause the variable's value to change? How can you cause a variable's value
+    to change?
+
+
+
+6) Why do we use variables, what is their purpose?
+
+
+
+7) What is the difference between a literal and a variable?
+
+
+
+8) Why are we allowed to write the code x = x + 5, when in math this would be a contradiction?
